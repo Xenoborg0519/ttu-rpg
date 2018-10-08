@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTU_RPG.CSharp.Plugins", "TTU_RPG.CSharp.Plugins.csproj", "{5616AD66-B661-2A3A-5895-9F18650C6428}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTU_RPG.CSharp", "TTU_RPG.CSharp.csproj", "{6954E420-52CD-9855-0F32-A65747376900}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TTU_RPG.CSharp.Editor", "TTU_RPG.CSharp.Editor.csproj", "{9410EBC3-67CA-407C-70EF-06BC9984F4DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5616AD66-B661-2A3A-5895-9F18650C6428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5616AD66-B661-2A3A-5895-9F18650C6428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5616AD66-B661-2A3A-5895-9F18650C6428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5616AD66-B661-2A3A-5895-9F18650C6428}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6954E420-52CD-9855-0F32-A65747376900}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6954E420-52CD-9855-0F32-A65747376900}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6954E420-52CD-9855-0F32-A65747376900}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6954E420-52CD-9855-0F32-A65747376900}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9410EBC3-67CA-407C-70EF-06BC9984F4DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9410EBC3-67CA-407C-70EF-06BC9984F4DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9410EBC3-67CA-407C-70EF-06BC9984F4DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9410EBC3-67CA-407C-70EF-06BC9984F4DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
